@@ -1,3 +1,4 @@
-Juan,8,7,9,6
-Ana,9,10,8,9
-Carlos,7,7,6,8
+nombre,edad,nota_final
+Juan Pérez,20,8.5
+Ana López,22,9.0
+Carlos Martínez,21,7.5
