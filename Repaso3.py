@@ -1,4 +1,4 @@
-#Ejercicio 6: Dada una lista de (vendedor, importe), mostrar cuánto vendió cada vendedor.
+#Ejercicio 6: Dada una lista de (vendedor, importe), mostrar cuánto vendió cada vendedor. En texto.
 ventas = [
     ("Ana", 100),
     ("Ana", 200),
@@ -30,3 +30,5 @@ for _ in range(5):
 
 promedio = sum(numeros) / len(numeros)
 print("El promedio es:", promedio)
+
+
