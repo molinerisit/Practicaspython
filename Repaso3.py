@@ -1,4 +1,4 @@
-#Ejercicio 6: Dada una lista de (vendedor, importe), mostrar cuánto vendió cada vendedor. En texto.
+#Ejercicio 6: Dada una lista de (vendedor, importe), mostrar cuánto vendió cada vendedor. 
 ventas = [
     ("Ana", 100),
     ("Ana", 200),
